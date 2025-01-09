@@ -1,6 +1,6 @@
 ***Integrating Formal and Relational Contracting: Data Repository***
 
-This repository contains the data used in the study titled “Integrating Formal and Relational Contracting: The Interplay Between Network Structure and Contract Design in Interlocal Collaboration Agreements.”
+This repository contains the data used in the study titled “Integrating Formal and Relational Contracting: The Link Between Network Structure and Contract Design in Interlocal Collaboration Agreements.”
 
 **Description of the Dataset**
 
@@ -8,31 +8,18 @@ The dataset includes information on a random sample of 300 bilateral interlocal 
 
 **Variables**
 
-	•	filing_number: Unique identifier for each agreement.
-	•	service_type: The type of public safety service covered by the agreement (e.g., Criminal Investigation, Police Protection, Fire Response, Emergency Management, Jail and Corrections).
-	•	mutual_partners: The number of mutual partners shared by the parties in the agreement.
-	•	Principal-Agent: Indicates whether the agreement involves a principal-agent relationship (True/False).
-	•	Integration mechanism: A categorical variable representing the level of integration mechanism used in the agreement.
-	•	Shared governance: Indicates whether the agreement involves shared governance (True/False).
-	•	Payment structure: Indicates whether the agreement outlines the method and terms under which financial transactions between the parties will occur (True/False).
-	•	Frequency of Payment: Indicates whether the frequency of payments is specified in the agreement (True/False).
-	•	Audit: Indicates the presence of an official document produced and validated by either (a) an independent external entity or (b) a designated department within the auditing party, following a set of explicitly defined standards (True/False).
-	•	Evaluation: Indicates the presence of a clause stipulating that one party is granted the right to review or assess the performance of the other party throughout the duration of the contract (True/False).
-	•	Report: Indicates the presence of stipulations mandating that one or more parties provide any form of report as specified (True/False).
-	•	Mandatory discussion: Indicates whether the agreement mandates that the involved parties engage in discussions or consultations to evaluate the effectiveness of their contractual relationship (True/False).
-	•	Access to records: Indicates the presence of a clause stipulating that one party is obligated to provide the other party with access to its relevant documentation and records (True/False).
-	•	Insurance: Indicates the presence of a clause mandating that one or more parties involved in the agreement obtain some form of insurance (True/False).
-	•	Liability Shift/Indemnification: Indicates whether an agreement explicitly indicates one party is liable for an occurrence or indemnifies the other party against a liability (True/False).
-	•	Explicit Amendment: Indicates whether an agreement provides explicit amendment procedures (True/False).
-	•	Alternative Dispute Resolution Clause: Indicates whether an agreement stipulates that the parties must submit to some form of mediation or arbitration (True/False).
-	•	Severability Clause: Indicates whether an agreement includes any severability clauses that facilitate “modularity” in contract design (True/False).
-	•	completeness: A score representing the overall completeness of the agreement, based on the presence of key contractual provisions (ranges from 0 to 12).
-	•	filing_year: The year the agreement was filed.
-	•	col_direction: The direction of collaboration (e.g., Horizontal, Vertical, Cross-sector).
-	•	bonding_dum: A binary indicator of bonding social capital (1 if bonding social capital is present, 0 otherwise).
-	•	tie_strength2: A measure of the strength of the tie (the count of previous collaboration) between the contracting parties.
-	•	tie_strength_dum: A binary indicator of tie strength (1 if there is previous collaboration, 0 otherwise).
-	•	service_contract: Indicates whether the agreement is a service contract (Yes/No).
+filing_number: Unique identifier for each interlocal agreement in the dataset.
+service_type: The category of public safety service provided under the agreement (e.g., Criminal Investigation, Police Protection, Fire Response).
+active_agreements: A binary variable indicating if the agreement is currently active (1 = Active, 0 = Inactive).
+mutual_partners: The number of mutual partners that both parties in the agreement share within the network.
+years_collaborating: The duration, in years, that the two parties have collaborated prior to the current agreement.
+completeness_score: A metric evaluating the completeness of the agreement, based on the inclusion of key contractual provisions (e.g., from 0 to 12).
+filing_year: The year in which the agreement was officially filed.
+col_direction: Describes the direction or nature of collaboration (e.g., Horizontal, Vertical, Cross-sector).
+participant_1: Name of the first party involved in the agreement.
+participant_2: Name of the second party involved in the agreement.
+bonding_dum: A binary variable indicating the presence of bonding social capital in the relationship (1 = Bonding social capital present, 0 = Absent).
+service_contract: Specifies whether the agreement constitutes a formal service contract (Yes/No).
 
 **Usage**
 
@@ -40,5 +27,4 @@ The data can be used to analyze the interplay between formal and relational cont
 
 **Citation**
 
-If you use this data in your research, please cite the original study as follows:
-(Raul: we might need to add this when it is published)
+If you use this data in your research, please cite the original study as follows: Gutiérrez-Meave, R., Zhang, S., Carr, J., Siciliano., M. (2025). “Integrating Formal and Relational Contracting: The Link Between Network Structure and Contract Design in Interlocal Collaboration Agreements.” Public Administration.
