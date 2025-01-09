@@ -1,0 +1,301 @@
+filing_number,service_type,active_agreements,mutual_partners,years_collaborating,completeness_score,filing_year,col_direction,participant_1,participant_2,bonding_dum,service_contract
+M033788,Criminal Investigation,1,0,0,2,2007,Cross-sector,Planned Parenthood of Greater Iowa,Polk County,No,No
+M033790,Criminal Investigation,1,0,0,2,2007,Cross-sector,Mercy Medical Center (Des Moines),Polk County,No,No
+M034054,Criminal Investigation,4,9,5.111111111,2,2007,Vertical,Dallas County Sheriff,West Des Moines City,Yes,No
+M034100,Criminal Investigation,12,10,1.911111111,8,2007,Horizontal,Community Based Corrections District 3,Iowa Department of Human Services,Yes,Yes
+M034482,Criminal Investigation,7,24,7.894444444,0,2007,Vertical,Clive City,Polk County,Yes,No
+M036087,Criminal Investigation,6,21,5.072222222,0,2007,Horizontal,Jasper County,Marion County,Yes,No
+M036295,Fire Response,1,0,0,6,2007,Horizontal,Camp Township (Polk County),Four Mile Township (Polk County),No,Yes
+M036380,Criminal Investigation,1,2,0,1,2007,Vertical,Grinnell City,Poweshiek County,Yes,Yes
+M036381,Criminal Investigation,2,3,0,0,2007,Vertical,Grinnell Police Department,Jasper County,Yes,No
+M036383,Criminal Investigation,2,3,0,0,2007,Vertical,Grinnell Police Department,Jasper County,Yes,No
+M037236,Fire Response,2,0,5.055555556,5,2007,Horizontal,Ingraham Township (Mills County),Silver City Fire Department,No,Yes
+M037699,Police Protection,3,5,8.216666667,2,2007,Vertical,Jasper County,Sully City,Yes,Yes
+M038476,Emergency Management,2,4,0.986111111,2,2007,Horizontal,Lovell Township (Jones County),Monticello Ambulance Service,Yes,Yes
+M038569,Police Protection,5,5,13.10277778,4,2007,Vertical,Milton City,Van Buren County,Yes,Yes
+M038662,Police Protection,2,10,9.377777778,4,2007,Vertical,Mount Sterling City,Van Buren County,Yes,Yes
+M038680,Police Protection,4,0,12.96944444,5,2007,Horizontal,Miles City,Preston City,No,Yes
+M039099,Police Protection,12,10,4.269444444,4,2007,Horizontal,Arnolds Park City,Milford City,Yes,No
+M039101,Emergency Management,6,46,7.458333333,5,2007,Horizontal,Mitchell County,Worth County,Yes,No
+M039354,Criminal Investigation,1,2,0,0,2007,Vertical,Sioux City,Woodbury County,Yes,No
+M039372,Police Protection,5,4,5.097222222,2,2007,Vertical,Clemons City,Marshall County,Yes,Yes
+M039373,Police Protection,7,4,7.247222222,2,2007,Vertical,Ferguson City,Marshall County,Yes,Yes
+M039455,Police Protection,9,15,14.08888889,5,2007,Vertical,Alleman City,Polk County,Yes,Yes
+M039981,Police Protection,5,0,9.288888889,4,2007,Vertical,Chelsea City,Tama County,No,Yes
+M040275,Police Protection,3,0,11.81111111,3,2007,Vertical,College Springs City,Page County,No,Yes
+M500039,Police Protection,15,10,12.87222222,2,2007,Vertical,Hull City,Sioux County,Yes,Yes
+M500046,Emergency Management,9,28,12.7,3,2007,Vertical,Iowa City,Johnson County,Yes,Yes
+M500307,Emergency Management,1,0,0,0,2007,Horizontal,Readlyn City,Waverly City,No,No
+M500319,Police Protection,2,7,4.594444444,3,2007,Vertical,Bremer County,Waverly City,Yes,No
+M500445,Fire Response,4,0,12.52777778,6,2008,Horizontal,Glenwood City,Plattville Township (Mills County),No,Yes
+M500528,Emergency Management,7,30,7.455555556,6,2008,Vertical,Charles City,Floyd County,Yes,No
+M500544,Fire Response,2,0,1.005555556,2,2008,Horizontal,Greenfield Township (Jones County),Mechanicsville City,No,Yes
+M500614,Fire Response,2,0,0.583333333,3,2008,Horizontal,Hazel Dell Township (Pottawattamie County),Underwood City,No,Yes
+M500728,Criminal Investigation,1,0,0,2,2008,Horizontal,Iowa Falls City,Mid-Iowa Drug Task Force,No,No
+M500741,Police Protection,21,0,13.18333333,2,2008,Vertical,Grundy County,Morrison City,No,Yes
+M500748,Police Protection,1,0,0,3,2008,Vertical,Adams County,Corning City,No,Yes
+M501017,Police Protection,2,0,0.075,4,2008,Vertical,Cass County,Marne City,No,Yes
+M501039,Criminal Investigation,1,0,0,4,2008,Horizontal,Chariton City,South Central Iowa Interagency Drug Task Force,No,No
+M501047,Criminal Investigation,5,26,5.166666667,0,2008,Vertical,Polk County,Windsor Heights City,Yes,No
+M501214,Police Protection,2,5,6.988888889,2,2008,Horizontal,Monroe City,Prairie City,Yes,No
+M501881,Police Protection,6,5,7.852777778,6,2008,Vertical,Iowa Alcoholic Beverages Division,Marshalltown City,Yes,Yes
+M501885,Jail and Corrections,15,14,1.286111111,3,2008,Vertical,Clay County,Spencer City,Yes,Yes
+M501888,Emergency Management,15,14,1.286111111,4,2008,Vertical,Clay County,Spencer City,Yes,No
+M501943,Jail and Corrections,1,0,0,8,2008,Cross-sector,Iowa Department of Corrections,New Hope Village,No,Yes
+M501946,Jail and Corrections,1,0,0,8,2008,Cross-sector,Habitat for Humanity Webster/Humboldt County,Iowa Department of Corrections,No,Yes
+M501947,Jail and Corrections,2,0,4.4,8,2008,Vertical,Iowa Department of Corrections,Jolley City,No,Yes
+M501950,Jail and Corrections,1,0,0,8,2008,Cross-sector,Iowa Department of Corrections,Pomeroy Men's Club,No,Yes
+M501953,Jail and Corrections,2,2,0.497222222,8,2008,Vertical,Iowa Department of Corrections,Storm Lake City,Yes,Yes
+M502220,Police Protection,3,3,10.9,2,2009,Vertical,Hardin County Sheriff,Union City,Yes,Yes
+M502221,Police Protection,3,0,10.9,2,2009,Vertical,Hardin County Sheriff,Radcliffe City,No,Yes
+M502447,Fire Response,1,0,0,4,2009,Horizontal,Cass Township (Cedar County),West Branch City,No,Yes
+M502450,Fire Response,1,0,0,4,2009,Horizontal,Scott Township (Johnson County),West Branch City,No,Yes
+M502459,Police Protection,12,0,16.06388889,2,2009,Vertical,Collins City,Story County Sheriff,No,Yes
+M502468,Emergency Management,13,5,15.94444444,6,2009,Vertical,Nevada City,Story County Sheriff,Yes,Yes
+M502482,Jail and Corrections,5,23,7.038888889,2,2009,Horizontal,Clarke County,Lucas County,Yes,Yes
+M502483,Jail and Corrections,4,20,7.038888889,1,2009,Horizontal,Clarke County,Ringgold County,Yes,Yes
+M502496,Police Protection,10,9,9.794444444,2,2009,Vertical,Boyden City,Sioux County,Yes,Yes
+M502517,Fire Response,3,0,13.88888889,5,2009,Horizontal,Glenwood City,Plattville Township (Mills County),No,Yes
+M502520,Fire Response,3,0,6.969444444,6,2009,Horizontal,Glenwood City,Lyons Township (Mills County),No,Yes
+M502533,Police Protection,7,4,6.847222222,2,2009,Vertical,Clemons City,Marshall County,Yes,Yes
+M502537,Jail and Corrections,6,25,7.788888889,1,2009,Horizontal,Clarke County,Wayne County,Yes,Yes
+M502551,Police Protection,1,6,0,2,2009,Vertical,Johnson County,Oxford City,Yes,Yes
+M502566,Jail and Corrections,7,25,7.816666667,1,2009,Horizontal,Clarke County,Wayne County,Yes,Yes
+M502585,Jail and Corrections,4,19,7.169444444,1,2009,Horizontal,Clarke County,Madison County,Yes,Yes
+M502602,Jail and Corrections,2,0,4.319444444,8,2009,Cross-sector,Iowa Department of Corrections,Manson Greater Crater Days Committee,No,Yes
+M502605,Jail and Corrections,1,1,3.644444444,8,2009,Cross-sector,Iowa Department of Corrections,Iowa State University,Yes,Yes
+M502611,Police Protection,13,0,10.24722222,2,2009,Vertical,Grundy County,Reinbeck City,No,Yes
+M502615,Jail and Corrections,1,0,0,8,2009,Vertical,Iowa Department of Corrections,Region XII Council of Governments,No,Yes
+M502680,Fire Response,2,0,8.494444444,2,2009,Horizontal,Preston City,Van Buren Township (Jackson County),No,Yes
+M502880,Fire Response,6,25,5.766666667,5,2009,Horizontal,Grimes City,Johnston City,Yes,No
+M503029,Fire Response,1,0,0,5,2009,Horizontal,Handerson City,Henderson Community Fire Association,No,Yes
+M503033,Criminal Investigation,2,9,14.63888889,0,2009,Horizontal,Fremont County,Pottawattamie County,Yes,Yes
+M503057,Jail and Corrections,3,0,5.313888889,8,2009,Cross-sector,Iowa Department of Corrections,Rockwell City Congregate Meals,No,Yes
+M503134,Police Protection,1,0,0,2,2010,Vertical,Jasper County,Kellogg City,No,Yes
+M503194,Jail and Corrections,1,0,0,1,2010,Cross-sector,Clarke County,Tony Reed - Central Iowa Juvenile Detention Center,No,Yes
+M503208,Jail and Corrections,1,8,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Wayne County,Yes,Yes
+M503209,Jail and Corrections,1,8,0,2,2010,Vertical,Central Iowa Juvenile Detention Center,Lucas County,Yes,Yes
+M503210,Jail and Corrections,1,10,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Ringgold County,Yes,Yes
+M503212,Jail and Corrections,1,0,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Jones County,No,Yes
+M503218,Jail and Corrections,3,3,0.011111111,1,2010,Vertical,Central Iowa Juvenile Detention Center,Taylor County,Yes,Yes
+M503356,Fire Response,3,0,0,0,2010,Horizontal,Cleghorn Fire Department,Meriden Fire Department,No,No
+M503385,Jail and Corrections,1,1,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Des Moines County,Yes,Yes
+M503386,Jail and Corrections,1,0,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Guthrie County,No,Yes
+M503388,Jail and Corrections,1,1,0,8,2010,Vertical,Iowa Department of Corrections,Odebolt City,Yes,Yes
+M503417,Police Protection,2,0,1.208333333,2,2010,Vertical,Le Grand City,Marshall County,No,Yes
+M503418,Fire Response,3,0,3.277777778,3,2010,Horizontal,Mechanicsville City,Rome Township (Jones County),No,Yes
+M503429,Police Protection,9,5,10.25,2,2010,Vertical,Liscomb City,Marshall County,Yes,Yes
+M503454,Emergency Management,6,23,6.605555556,6,2010,Horizontal,Ankeny City,Elkhart City,Yes,Yes
+M503486,Jail and Corrections,1,0,0,8,2010,Vertical,Anamosa State Penitentiary,Guttenberg City,No,Yes
+M503496,Jail and Corrections,1,0,0,8,2010,Horizontal,Anamosa Corrections,Iowa Department of Cultural Affairs (Montauk Historic Site),No,Yes
+M503505,Jail and Corrections,1,6,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Franklin County,Yes,No
+M503515,Police Protection,9,9,10.91111111,2,2010,Vertical,Boyden City,Sioux County,Yes,Yes
+M503531,Police Protection,4,0,8.108333333,6,2010,Vertical,Tama County Sheriff,Traer City,No,Yes
+M503613,Jail and Corrections,1,12,0,1,2010,Vertical,Appanoose County,Central Iowa Juvenile Detention Center,Yes,Yes
+M503627,Emergency Management,1,0,0,5,2010,Horizontal,Farley City,New Wine Township (Dubuque County),No,Yes
+M503629,Jail and Corrections,2,6,12.25833333,8,2010,Vertical,Allamakee County Secondary Road Department/Conservation,Anamosa Corrections,Yes,Yes
+M503801,Jail and Corrections,1,7,0,1,2010,Vertical,Central Iowa Juvenile Detention Center,Mahaska County,Yes,No
+M503896,Jail and Corrections,2,0,6.141666667,7,2010,Cross-sector,Iowa Department of Corrections,Twin Lakes Christian Center,No,Yes
+M503912,Fire Response,2,1,3.472222222,2,2010,Horizontal,Four Mile Township (Polk County),Pleasant Hill City,Yes,Yes
+M504028,Fire Response,3,0,4.675,2,2010,Horizontal,Adel City,Colfax Township (Dallas County),No,Yes
+M504047,Police Protection,3,11,17.85,2,2010,Vertical,Eddyville City,Mahaska County Sheriff,Yes,Yes
+M504060,Jail and Corrections,2,0,6.383333333,8,2010,Cross-sector,Iowa Department of Corrections,Pomeroy Historical Society,No,Yes
+M504102,Emergency Management,3,1,10.9,3,2011,Vertical,Sergeant Bluff City,Woodbury County Information and Communications Commission,Yes,Yes
+M504201,Fire Response,2,0,9.022222222,3,2011,Horizontal,Adel Township (Dallas County),Dallas Center City,No,Yes
+M504222,Fire Response,3,0,8.963888889,6,2011,Horizontal,Clay Township (Grundy County),Conrad City,No,Yes
+M504238,Police Protection,2,5,14.73888889,5,2011,Vertical,Greene County,Scranton City,Yes,Yes
+M504273,Fire Response,1,0,0,2,2011,Horizontal,Epworth Community Fire Department,Whitewater Township (Dubuque County),No,Yes
+M504282,Jail and Corrections,1,0,0,1,2011,Horizontal,Central Iowa Juvenile Detention Center,Washington Township (Washington County),No,Yes
+M504291,Fire Response,12,7,18.31944444,0,2011,Horizontal,Chariton City,Lincoln Township (Lucas County),Yes,Yes
+M504347,Jail and Corrections,1,0,0,8,2011,Cross-sector,Iowa Central Community College (Demolition Class),Iowa Department of Corrections,No,Yes
+M504355,Fire Response,2,0,0.213888889,2,2011,Horizontal,Dallas Center City,Grant Township (Dallas County),No,Yes
+M504363,Fire Response,1,0,0,6,2011,Horizontal,Missouri Valley City,St. John Township (Harrison County),No,Yes
+M504371,Police Protection,2,1,2.3,1,2011,Vertical,Montgomery County,Villisca City,Yes,Yes
+M504422,Fire Response,2,0,2.158333333,4,2011,Horizontal,Keota City,Keota Volunteer Fire Department,No,Yes
+M504425,Fire Response,1,0,0,4,2011,Horizontal,Dutch Creek Township (Washington County),Keota Volunteer Fire Department,No,Yes
+M504438,Police Protection,2,0,0.841666667,3,2011,Vertical,Jones County,Olin City,No,Yes
+M504506,Police Protection,1,37,3.263888889,5,2011,Vertical,Floyd City,Floyd County,Yes,Yes
+M504509,Police Protection,2,1,8.044444444,5,2011,Horizontal,Floyd City,Rockford City,Yes,Yes
+M504537,Jail and Corrections,1,8,0,1,2011,Vertical,Central Iowa Juvenile Detention Center,Keokuk County,Yes,Yes
+M504550,Police Protection,1,0,0.980555556,5,2011,Vertical,Dallas County,Dexter City,No,Yes
+M504590,Fire Response,1,0,0,6,2011,Horizontal,Cascade City,Whitewater Township (Dubuque County),No,Yes
+M504669,Fire Response,9,39,14.03611111,3,2011,Vertical,Delaware County,Manchester City,Yes,Yes
+M504763,Jail and Corrections,4,0,17.33333333,5,2011,Vertical,Fremont County Law Enforcement Service,Sidney City,No,Yes
+M505004,Jail and Corrections,2,1,0,3,2012,Vertical,Iowa Medical and Classification Center,Linn County,Yes,Yes
+M505011,Fire Response,2,3,4.933333333,5,2012,Horizontal,Floyd Community Volunteer Fire Department,West Cedar Township (Floyd County),Yes,Yes
+M505023,Police Protection,3,10,9.930555556,8,2012,Horizontal,Essex City,Shenandoah City,Yes,Yes
+M505052,Criminal Investigation,3,7,8.930555556,1,2012,Vertical,Bremer-Waverly Law Enforcement Board,Waverly City,Yes,Yes
+M505169,Emergency Management,11,1,17.01388889,6,2012,Vertical,Story City,Story County Sheriff,Yes,Yes
+M505185,Police Protection,2,0,1.738888889,3,2012,Vertical,Jones County,Oxford Junction City,No,Yes
+M505202,Police Protection,18,44,13.775,6,2012,Vertical,Ankeny City,Polk County,Yes,No
+M505210,Police Protection,10,0,13.61666667,2,2012,Vertical,Maurice City,Sioux County,No,Yes
+M505229,Police Protection,4,6,19.01666667,4,2012,Vertical,Cass County,Griswold City,Yes,Yes
+M505235,Fire Response,2,0,6.577777778,5,2012,Horizontal,Marion Township (Marshall County),Vienna Township (Marshall County),No,Yes
+M505256,Police Protection,2,8,8.455555556,5,2012,Vertical,Chickasaw County,Lawler City,Yes,Yes
+M505305,Police Protection,1,2,1.011111111,5,2012,Vertical,Floyd County,Rockford City,Yes,Yes
+M505327,Police Protection,1,5,2.027777778,5,2012,Vertical,Floyd County,Nora Springs City,Yes,Yes
+M505333,Police Protection,1,0,4.311111111,6,2012,Vertical,Colwell City,Floyd County,No,Yes
+M505402,Police Protection,2,0,0,2,2012,Vertical,Iowa County Sheriff,North English City,No,Yes
+M505468,Police Protection,10,37,17.13333333,6,2012,Vertical,Dysart City,Tama County Sheriff,Yes,Yes
+M505476,Police Protection,10,0,13.94722222,3,2012,Vertical,Maurice City,Sioux County,No,Yes
+M505717,Fire Response,1,2,0,2,2012,Horizontal,Asbury Community Fire Department,Center Township (Dubuque County),Yes,Yes
+M505724,Emergency Management,20,44,19.52222222,2,2012,Vertical,Cerro Gordo County,Mason City,Yes,Yes
+M505799,Fire Response,3,0,8.622222222,7,2012,Horizontal,Conrad City,Melrose Township (Grundy County),No,Yes
+M505848,Criminal Investigation,35,31,0,4,2013,Horizontal,Clay County Sheriff,Iowa Great Lakes Drug Task Force,Yes,No
+M505948,Fire Response,3,10,18.78333333,2,2013,Horizontal,Storm Lake City,Truesdale City,Yes,Yes
+M505991,Fire Response,1,0,0,5,2013,Horizontal,Fairfield Township (Iowa County),New Hartford City,No,Yes
+M506015,Fire Response,11,0,11.96666667,2,2013,Horizontal,Essex City,Grant Township (Page County),No,Yes
+M506019,Fire Response,11,0,11.96666667,2,2013,Horizontal,Essex City,Pierce Township (Page County),No,Yes
+M506024,Fire Response,2,0,0.025,6,2013,Horizontal,Albion Township (Butler County),New Hartford City,No,Yes
+M506038,Police Protection,15,0,20.07777778,3,2013,Vertical,Collins City,Story County Sheriff,No,Yes
+M506040,Police Protection,16,4,20.07777778,2,2013,Vertical,Gilbert City,Story County Sheriff,Yes,Yes
+M506046,Police Protection,15,0,20.07777778,2,2013,Vertical,Story County Sheriff,Zearing City,No,Yes
+M506047,Emergency Management,2,8,0,5,2013,Vertical,Calhoun County Board of Health,Lohrville Ambulance Service,Yes,No
+M506071,Police Protection,2,0,2.802777778,3,2013,Vertical,Jones County,Martelle City,No,Yes
+M506124,Police Protection,9,6,13.02222222,2,2013,Vertical,Ferguson City,Marshall County,Yes,Yes
+M506133,Police Protection,11,0,14.70555556,2,2013,Vertical,Maurice City,Sioux County,No,Yes
+M506140,Police Protection,1,0,0,5,2013,Vertical,Cushing City,Woodbury County Sheriff,No,Yes
+M506142,Fire Response,2,4,0,2,2013,Horizontal,Burlington City,West Burlington City,Yes,No
+M506187,Police Protection,5,8,20.71111111,3,2013,Vertical,Chickasaw County,North Washington City,Yes,Yes
+M506197,Fire Response,4,0,4.2,4,2013,Horizontal,Springdale Township (Cedar County),West Branch City,No,Yes
+M506289,Emergency Management,6,24,13.96388889,3,2013,Horizontal,Cedar County,Johnson County Joint Emergency Communications Center,Yes,Yes
+M506310,Police Protection,10,33,11.15555556,4,2013,Vertical,Lincoln City,Tama County Sheriff,Yes,Yes
+M506311,Police Protection,3,0,11.15555556,5,2013,Vertical,Montour City,Tama County Sheriff,No,Yes
+M506316,Police Protection,1,0,0,1,2013,Horizontal,New Sharon City,Osceola City,No,No
+M506383,Emergency Management,5,23,10.57777778,3,2013,Vertical,Cedar County,Tipton City,Yes,Yes
+M506436,Police Protection,4,0,11.79166667,5,2013,Horizontal,Preston City,Spragueville City,No,Yes
+M506717,Emergency Management,3,0,14.83055556,3,2013,Horizontal,Linden City,Redfield City,No,Yes
+M506747,Police Protection,10,32,12.09722222,6,2013,Vertical,Garwin City,Tama County Sheriff,Yes,Yes
+M506808,Police Protection,5,18,19.25,4,2013,Vertical,Huxley City,Story County Sheriff,Yes,Yes
+M506822,Police Protection,3,1,8.911111111,3,2013,Horizontal,Lake View City,Wall Lake City,Yes,Yes
+M506826,Fire Response,1,0,0,2,2013,Cross-sector,Blackbird Bend Corporation,Onawa Volunteer Fire Department,No,Yes
+M506891,Fire Response,9,13,19.05555556,3,2014,Horizontal,Evansdale City,Waterloo City,Yes,Yes
+M506896,Fire Response,8,10,19.05555556,3,2014,Horizontal,Dunkerton City,Waterloo City,Yes,Yes
+M506908,Fire Response,1,0,1.536111111,7,2014,Horizontal,Lyons Township (Mills County),Pacific Junction City,No,Yes
+M506915,Fire Response,3,0,4.886111111,4,2014,Horizontal,Scott Township (Johnson County),West Branch City,No,Yes
+M506916,Fire Response,5,0,4.886111111,4,2014,Horizontal,Springdale Township (Cedar County),West Branch City,No,Yes
+M507019,Police Protection,1,0,0,6,2014,Vertical,Audubon County Sheriff,Gray City,No,Yes
+M507021,Fire Response,1,0,0,3,2014,Horizontal,Allerton City,Waterloo City,No,Yes
+M507033,Police Protection,3,8,10.38333333,3,2014,Vertical,Chickasaw County,Lawler City,Yes,Yes
+M507038,Police Protection,7,8,21.6,3,2014,Vertical,Chickasaw County,Ionia City,Yes,Yes
+M507042,Fire Response,1,2,0,0,2014,Horizontal,Bear Grove Township (Cass County),Cumberland City,Yes,Yes
+M507054,Police Protection,16,12,21.13611111,2,2014,Vertical,Maxwell City,Story County Sheriff,Yes,Yes
+M507068,Emergency Management,7,7,15.58055556,6,2014,Vertical,Marshall County Emergency Medical Services Association,Marshalltown City,Yes,No
+M507074,Emergency Management,3,0,9.938888889,6,2014,Horizontal,West Des Moines City,West Des Moines Community School District,No,Yes
+M507118,Police Protection,5,12,18.41944444,3,2014,Vertical,Jones County,Monticello City,Yes,Yes
+M507121,Police Protection,2,0,3.875,4,2014,Vertical,Jones County,Morley City,No,Yes
+M507124,Police Protection,2,0,3.875,4,2014,Vertical,Jones County,Oxford Junction City,No,Yes
+M507157,Police Protection,11,37,18.94166667,6,2014,Vertical,Dysart City,Tama County Sheriff,Yes,Yes
+M507159,Police Protection,11,32,12.09166667,3,2014,Vertical,Elberon City,Tama County Sheriff,Yes,Yes
+M507302,Police Protection,16,10,20.14722222,2,2014,Vertical,Hull City,Sioux County,Yes,Yes
+M507303,Police Protection,16,10,20.14722222,2,2014,Vertical,Hospers City,Sioux County,Yes,Yes
+M507304,Police Protection,16,10,20.14722222,2,2014,Vertical,Granville City,Sioux County,Yes,Yes
+M507317,Police Protection,7,6,14.16944444,2,2014,Vertical,Ferguson City,Marshall County,Yes,Yes
+M507320,Police Protection,5,6,12.01944444,2,2014,Vertical,Clemons City,Marshall County,Yes,Yes
+M507404,Jail and Corrections,1,0,0,8,2014,Horizontal,Iowa Department of Corrections (Newton Correctional Facility),Iowa Department of Natural Resources (Rock Creek State Park),No,Yes
+M507405,Jail and Corrections,1,0,0,8,2014,Horizontal,Iowa Department of Corrections (Newton Correctional Facility),Iowa Department of Public Defense (Camp Dodge),No,Yes
+M507406,Jail and Corrections,1,0,0,8,2014,Vertical,Iowa Department of Corrections (Newton Correctional Facility),Kellogg Fire Department,No,Yes
+M507407,Jail and Corrections,1,0,0,8,2014,Horizontal,Iowa Department of Administrative Services (Terrace Hill),Iowa Department of Corrections (Newton Correctional Facility),No,Yes
+M507441,Police Protection,1,0,0,5,2014,Horizontal,Cedar Rapids City,College Community School District,No,Yes
+M507459,Police Protection,2,14,4.255555556,5,2014,Vertical,Floyd County,Nora Springs City,Yes,Yes
+M507683,Police Protection,8,18,11.66111111,2,2014,Vertical,Knoxville City,Marion County,Yes,No
+M507694,Emergency Management,1,0,0,4,2014,Horizontal,"North Sioux City, South Dakota",Woodbury County Information and Communications Commission,No,Yes
+M507742,Police Protection,3,1,10.56388889,4,2014,Vertical,Lenox City,Taylor County,Yes,Yes
+M507744,Police Protection,6,19,8.194444444,2,2014,Vertical,Marion County,Pella City,Yes,No
+M507757,Fire Response,4,0,12.775,7,2014,Horizontal,Conrad City,Vienna Township (Marshall County),No,Yes
+M507812,Police Protection,3,9,22.02222222,2,2015,Vertical,Beacon City,Mahaska County,Yes,Yes
+M507881,Fire Response,12,0,13.88611111,2,2015,Horizontal,Essex City,Fremont Township (Page County),No,Yes
+M507922,Police Protection,3,6,20.87777778,5,2015,Vertical,Bonaparte City,Van Buren County,Yes,Yes
+M507938,Jail and Corrections,2,11,5.038888889,3,2015,Vertical,Albia City,Monroe County,Yes,No
+M507954,Emergency Management,1,0,0,4,2015,Vertical,Clearfield City,Taylor County,No,Yes
+M507966,Police Protection,24,17,22.00277778,2,2015,Vertical,Gilbert City,Story County Sheriff,Yes,Yes
+M507972,Police Protection,22,24,22.00277778,3,2015,Vertical,Slater City,Story County Sheriff,Yes,Yes
+M507973,Police Protection,23,14,22.00277778,2,2015,Vertical,Story County Sheriff,Zearing City,Yes,Yes
+M507999,Fire Response,8,0,8.116666667,2,2015,Horizontal,Mechanicsville City,Rome Township (Jones County),No,Yes
+M508019,Fire Response,2,0,1.177777778,0,2015,Horizontal,Grove Township (Taylor County),Sharpsburg City,No,Yes
+M508022,Fire Response,1,0,0,2,2015,Horizontal,Palmer City,Palmer Rural Fire Association,No,No
+M508133,Police Protection,4,10,7.269444444,5,2015,Vertical,Floyd County,Marble Rock City,Yes,Yes
+M508152,Police Protection,3,10,5.036111111,6,2015,Vertical,Floyd County,Rockford City,Yes,Yes
+M508209,Police Protection,2,0,4.280555556,4,2015,Vertical,Guthrie Center City,Guthrie County,No,Yes
+M508212,Jail and Corrections,4,1,21.15277778,5,2015,Vertical,Fremont County,Sidney City,Yes,Yes
+M508216,Police Protection,1,0,0,6,2015,Vertical,Fremont County,Riverton City,No,Yes
+M508262,Fire Response,2,0,3.377777778,3,2015,Horizontal,Adair City,"Adair Community Fire Board, Inc.",No,Yes
+M508293,Police Protection,2,1,0,2,2015,Horizontal,Hiawatha City,Marion City,Yes,No
+M508344,Police Protection,10,32,13.21666667,2,2015,Vertical,Elberon City,Tama County Sheriff,Yes,Yes
+M508350,Police Protection,8,32,17.2,4,2015,Vertical,Chelsea City,Tama County Sheriff,Yes,Yes
+M508354,Criminal Investigation,1,0,0,5,2015,Vertical,Fort Dodge Housing Authority,Iowa Department of Inspections and Appeals,No,No
+M508631,Emergency Management,96,67,0,4,2015,Horizontal,Mahaska County E-911 Board,Mahaska County Emergency Management Agency,Yes,No
+M508644,Fire Response,1,0,0,3,2015,Horizontal,Burlington City,Mount Pleasant City,No,No
+M508730,Police Protection,1,0,0,2,2015,Horizontal,St. Ansgar City,St. Ansgar Community School District,No,Yes
+M508757,Criminal Investigation,1,0,0,5,2016,Vertical,Cedar Rapids Housing Services,Iowa Department of Inspections and Appeals,No,No
+M508770,Police Protection,2,5,13.86111111,3,2016,Horizontal,Paullina City,Sutherland City,Yes,Yes
+M508849,Fire Response,1,0,0,2,2016,Horizontal,Hudson City,Midwest Fire,No,Yes
+M508859,Criminal Investigation,1,0,0,5,2016,Vertical,Iowa Department of Inspections and Appeals,Municipal Housing Agency of Centerville,No,No
+M508881,Police Protection,15,0,20.45277778,3,2016,Vertical,Minden City,Pottawattamie County,No,Yes
+M508886,Police Protection,15,0,22.71666667,3,2016,Vertical,Pottawattamie County,Underwood City,No,Yes
+M508912,Fire Response,1,0,0,6,2016,Horizontal,Corning Volunteer Fire Department,Prescott Township (Adams County),No,Yes
+M508923,Criminal Investigation,1,0,0,5,2016,Vertical,Iowa Department of Inspections and Appeals,Muscatine Municipal Housing Agency,No,No
+M508927,Fire Response,9,0,9.122222222,4,2016,Horizontal,Fremont Township (Cedar County),Mechanicsville City,No,Yes
+M508946,Police Protection,4,0,21.92777778,7,2016,Vertical,Fremont County Sheriff,Sidney City,No,Yes
+M508947,Criminal Investigation,1,0,0,5,2016,Vertical,Charles City Housing and Redevelopment Authority,Iowa Department of Inspections and Appeals,No,No
+M508949,Police Protection,1,2,0,6,2016,Horizontal,Elk Run Heights City,Evansdale City,Yes,Yes
+M508958,Fire Response,1,0,0,3,2016,Horizontal,Garfield Township (Mahaska County),Osceola City,No,Yes
+M508993,Police Protection,23,14,23.11944444,3,2016,Vertical,McCallsburg City,Story County Sheriff,Yes,Yes
+M509002,Criminal Investigation,2,0,0.313888889,5,2016,Vertical,Cedar Rapids City,Iowa Department of Inspections and Appeals,No,No
+M509004,Police Protection,1,4,0,3,2016,Horizontal,Cedar Rapids City,University Heights City,Yes,Yes
+M509008,Jail and Corrections,3,11,6.194444444,3,2016,Vertical,Albia City,Monroe County,Yes,No
+M509037,Fire Response,7,0,7.136111111,4,2016,Horizontal,Iowa Township (Cedar County),West Branch City,No,Yes
+M509050,Fire Response,1,0,0,5,2016,Horizontal,Pierson City,Rutland Township (Iowa County),No,Yes
+M509059,Fire Response,1,0,0,3,2016,Horizontal,Adams Township (Dallas County),Osceola City,No,Yes
+M509107,Criminal Investigation,1,0,0,5,2016,Vertical,Albia Housing Agency,Iowa Department of Inspections and Appeals,No,No
+M509108,Criminal Investigation,1,0,0,5,2016,Vertical,Iowa Department of Inspections and Appeals,Oskaloosa Municipal Housing Agency,No,No
+M509128,Criminal Investigation,1,1,0,5,2016,Vertical,Iowa City,Iowa Department of Inspections and Appeals,Yes,No
+M509137,Fire Response,4,3,9.469444444,6,2016,Horizontal,Floyd Community Volunteer Fire Department,Floyd Township (Floyd County),Yes,Yes
+M509178,Criminal Investigation,1,0,0,5,2016,Vertical,Iowa Department of Inspections and Appeals,North Iowa Regional Housing Authority,No,No
+M509179,Police Protection,1,0,0,7,2016,Horizontal,Clinton City,Clinton Community School District,No,Yes
+M509180,Emergency Management,2,19,16.60555556,3,2016,Vertical,Dakota City,Humboldt County,Yes,Yes
+M509182,Police Protection,2,10,6.158333333,5,2016,Vertical,Floyd County,Rockford City,Yes,Yes
+M509197,Police Protection,9,8,17.875,2,2016,Vertical,Maurice City,Sioux County,Yes,Yes
+M509204,Jail and Corrections,1,1,0.013888889,5,2016,Vertical,Fremont County,Tabor City,Yes,No
+M509219,Fire Response,1,0,0,5,2016,Horizontal,Cleona Township (Scott County),Durant City,No,Yes
+M509299,Criminal Investigation,1,0,0,5,2016,Vertical,Iowa Department of Inspections and Appeals,Marshalltown Rent Assistance Program,No,No
+M509300,Criminal Investigation,1,0,0,5,2016,Vertical,Iowa Department of Inspections and Appeals,Ottumwa Housing Authority,No,No
+M509366,Criminal Investigation,1,0,0,1,2016,Horizontal,Marshalltown City,Mid-Iowa Drug Task Force,No,No
+M509377,Police Protection,13,32,14.36666667,5,2016,Vertical,Clutier City,Tama County Sheriff,Yes,Yes
+M509504,Police Protection,3,11,22.375,5,2016,Vertical,Alta City,Buena Vista County,Yes,Yes
+M509637,Police Protection,3,6,16.68888889,7,2016,Horizontal,Lisbon City,Mount Vernon City,Yes,Yes
+M509702,Fire Response,1,0,0,4,2017,Horizontal,Pacific Junction City,Tabor City,No,No
+M509707,Criminal Investigation,2,0,0.905555556,5,2017,Vertical,Iowa Department of Inspections and Appeals,Municipal Housing Agency of Centerville,No,No
+M509708,Police Protection,4,8,23.71944444,3,2017,Vertical,Cass County,Griswold City,Yes,Yes
+M509732,Fire Response,2,10,10.88333333,2,2017,Horizontal,Halbur City,Templeton City,Yes,No
+M509777,Criminal Investigation,1,1,0.983333333,5,2017,Vertical,Cedar Rapids Housing Services,Iowa Department of Inspections and Appeals,Yes,No
+M509778,Criminal Investigation,1,2,0,5,2017,Vertical,Iowa Department of Inspections and Appeals,Mason City Housing Authority,Yes,No
+M509781,Criminal Investigation,1,0,0,5,2017,Vertical,Iowa Department of Inspections and Appeals,Warren County Housing Authority,No,No
+M509782,Criminal Investigation,2,0,0.969444444,5,2017,Vertical,Iowa Department of Inspections and Appeals,Muscatine Municipal Housing Agency,No,No
+M509789,Criminal Investigation,1,1,0.930555556,5,2017,Vertical,Charles City Housing and Redevelopment Authority,Iowa Department of Inspections and Appeals,Yes,No
+M509802,Fire Response,3,1,11.05,2,2017,Horizontal,Essex City,Imogene City,Yes,Yes
+M509899,Police Protection,24,14,24.05277778,3,2017,Vertical,Collins City,Story County Sheriff,Yes,Yes
+M509955,Police Protection,1,0,4.941666667,3,2017,Vertical,Jones County,Onslow City,No,Yes
+M509999,Criminal Investigation,2,1,0.902777778,5,2017,Vertical,Iowa City,Iowa Department of Inspections and Appeals,Yes,No
+M510000,Criminal Investigation,1,0,0.902777778,5,2017,Vertical,Albia Housing Agency,Iowa Department of Inspections and Appeals,No,No
+M510001,Criminal Investigation,1,0,0.916666667,5,2017,Vertical,Fort Dodge Housing Agency,Iowa Department of Inspections and Appeals,No,No
+M510004,Criminal Investigation,2,0,0.947222222,5,2017,Vertical,Iowa Department of Inspections and Appeals,Oskaloosa Municipal Housing Agency,No,No
+M510030,Police Protection,6,6,14.89444444,2,2017,Vertical,Albion City,Marshall County,Yes,Yes
+M510048,Police Protection,3,1,3.858333333,6,2017,Vertical,Audubon County Sheriff,Exira City,Yes,Yes
+M510075,Criminal Investigation,2,0,0.983333333,5,2017,Vertical,Iowa Department of Inspections and Appeals,North Iowa Regional Housing Authority,No,No
+M510147,Criminal Investigation,2,1,1.563888889,5,2017,Vertical,Cedar Rapids City,Iowa Department of Inspections and Appeals,Yes,No
+M510162,Criminal Investigation,2,0,0.911111111,5,2017,Vertical,Iowa Department of Inspections and Appeals,Ottumwa Housing Authority,No,No
+M510166,Police Protection,3,21,16.42222222,3,2017,Vertical,Forest City,Winnebago County,Yes,Yes
+M510167,Criminal Investigation,1,0,0,5,2017,Vertical,Iowa Department of Inspections and Appeals,Region XII Regional Housing Authority,No,No
+M510176,Jail and Corrections,1,0,2.044444444,6,2017,Vertical,Farragut City,Fremont County,No,Yes
+M510178,Police Protection,1,1,2.044444444,6,2017,Vertical,Fremont County,Randolph City,Yes,Yes
+M510183,Fire Response,3,14,2.997222222,3,2017,Horizontal,Colo City,Nevada City,Yes,No
+M510185,Police Protection,2,10,23.23888889,3,2017,Vertical,Buena Vista County,Truesdale City,Yes,Yes
+M510244,Police Protection,1,0,1.802777778,8,2017,Vertical,North Polk Community School District,Polk County,No,Yes
+M510272,Criminal Investigation,1,0,0,5,2017,Vertical,Iowa Department of Inspections and Appeals,Pleasant Township (Lucas County),No,No
+M510277,Police Protection,3,5,21.68611111,3,2017,Vertical,Jackson County,Maquoketa City,Yes,No
+M510349,Police Protection,2,1,16.22222222,5,2017,Horizontal,Milford City,West Okoboji City,Yes,Yes
+M510399,Criminal Investigation,2,0,1.794444444,5,2017,Vertical,Iowa Department of Inspections and Appeals,Municipal Housing Agency of Centerville,No,No
+M510547,Emergency Management,3,32,11.77777778,6,2017,Horizontal,Gladbrook City,Spring Creek Township (Tama County),Yes,Yes
+M510550,Emergency Management,4,32,5.772222222,5,2017,Horizontal,Gladbrook City,Lincoln City,Yes,Yes
+M510577,Criminal Investigation,1,0,0,5,2017,Vertical,Iowa Department of Inspections and Appeals,Scott Township (Johnson County),No,No
