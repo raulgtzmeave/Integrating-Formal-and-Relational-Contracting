@@ -21,10 +21,6 @@ The dataset includes information on a random sample of 300 bilateral interlocal 
 - bonding_dum: A binary variable indicating the presence of bonding social capital in the relationship (1 = Bonding social capital present, 0 = Absent).
 - service_contract: Specifies whether the agreement constitutes a formal service contract (Yes/No).
 
-**Usage**
-
-The data can be used to analyze the interplay between formal and relational contracting approaches, focusing on how network structures influence contract design. Researchers can explore how bonding social capital, operationalized through the presence of mutual third-party connections, impacts the explicit detailing of contractual provisions.
-
 **Citation**
 
 If you use this data in your research, please cite the original study as follows: 
